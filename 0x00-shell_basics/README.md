@@ -5,3 +5,4 @@ Diplaying long format, hidden and groups etc
 Making my first directory
 Moving betty to my first directory
 Removing betty
+Deleting my first directory
