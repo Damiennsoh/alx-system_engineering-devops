@@ -1,1 +1,1 @@
-exe permission to owner
+user to betty
