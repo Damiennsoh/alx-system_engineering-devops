@@ -13,3 +13,4 @@ creating a symnbol
 copying..
 moving
 deleting all files from directory
+A script that creates directories
