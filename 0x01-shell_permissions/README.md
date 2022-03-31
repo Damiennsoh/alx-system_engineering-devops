@@ -1,1 +1,1 @@
-print user name effective
+print user 
