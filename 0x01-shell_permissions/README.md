@@ -1,1 +1,1 @@
-permission to a file
+sets mod of a file
