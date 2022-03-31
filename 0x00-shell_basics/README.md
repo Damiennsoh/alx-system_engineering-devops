@@ -4,3 +4,4 @@ Display contents including hidden files
 Diplaying long format, hidden and groups etc
 Making my first directory
 Moving betty to my first directory
+Removing betty
