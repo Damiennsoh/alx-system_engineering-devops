@@ -1,1 +1,1 @@
-setting mode of a file
+execution to subdirectories
