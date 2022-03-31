@@ -1,1 +1,1 @@
-user to betty
+effective printing
