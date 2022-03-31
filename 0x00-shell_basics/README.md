@@ -8,4 +8,4 @@ Removing betty
 Deleting my first directory
 changing dirictory 2
 listing
-
+type of a file
