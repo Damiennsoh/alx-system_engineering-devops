@@ -1,1 +1,1 @@
-sets mod of a file
+setting mode of a file
