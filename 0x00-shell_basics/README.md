@@ -14,3 +14,4 @@ copying..
 moving
 deleting all files from directory
 A script that creates directories
+listing and sorting in directory
