@@ -1,1 +1,1 @@
-actually prefers first ones
+displays the third line of a file
