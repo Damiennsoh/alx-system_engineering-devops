@@ -1,1 +1,1 @@
-Write a command that finds all empty files and directories
+A script that list all files with a gif
