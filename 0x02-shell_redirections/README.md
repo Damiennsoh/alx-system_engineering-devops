@@ -1,1 +1,1 @@
-Create a script that decodes acrostic
+A script that parses web servers
