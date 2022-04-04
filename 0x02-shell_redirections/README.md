@@ -1,1 +1,1 @@
-creating a script that displays 10 newest files
+Create a script that takes a list of words
