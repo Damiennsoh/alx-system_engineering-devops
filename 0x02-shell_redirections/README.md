@@ -1,1 +1,1 @@
-Write a command that finds all empty files
+Write a command that finds all empty files and directories
