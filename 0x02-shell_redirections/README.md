@@ -1,1 +1,1 @@
-confusing smiley indeed
+A script to display confused smiley
