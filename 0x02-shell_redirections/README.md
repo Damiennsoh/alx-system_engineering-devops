@@ -1,1 +1,1 @@
-write a script that duplicates
+hello to the world
