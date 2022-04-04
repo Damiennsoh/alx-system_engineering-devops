@@ -1,1 +1,1 @@
-A script that counts a number
+A script that count numbers
