@@ -1,2 +1,1 @@
-hello to the world.
-I'm am smiley
+displaying a file
