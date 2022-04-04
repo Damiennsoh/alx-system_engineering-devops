@@ -1,1 +1,1 @@
-Display all lines of the file etc/ssh
+Replace all characters A and C
