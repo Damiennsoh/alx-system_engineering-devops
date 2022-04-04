@@ -1,1 +1,1 @@
-Writing a script that deletes all regular files
+write a script that duplicates
