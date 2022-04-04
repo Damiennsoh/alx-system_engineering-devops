@@ -1,1 +1,1 @@
-My first Hello
+A script to display confused smiley
