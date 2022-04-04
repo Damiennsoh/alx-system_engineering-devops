@@ -1,1 +1,1 @@
-Display lines in the file
+Display all lines of the file etc/ssh
