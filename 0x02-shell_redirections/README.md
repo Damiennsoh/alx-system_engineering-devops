@@ -1,1 +1,1 @@
-Write a script thhat reverses its input
+Write a command that finds all empty files
