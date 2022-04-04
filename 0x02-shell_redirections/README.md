@@ -1,1 +1,1 @@
-Create a script that takes a list of words
+display lines containing patterns
