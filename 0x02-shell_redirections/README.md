@@ -1,1 +1,1 @@
-A script to duplicate
+A script that counts a number
