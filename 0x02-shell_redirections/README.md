@@ -1,1 +1,1 @@
-script that creates a file named exactly
+a script that creates a file named exactly
