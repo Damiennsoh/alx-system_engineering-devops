@@ -1,1 +1,1 @@
-a script that creates a file named exactly
+create a file to name exactly another file
