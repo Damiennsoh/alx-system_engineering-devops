@@ -1,1 +1,1 @@
-A script writes into another file
+A script to duplicate
