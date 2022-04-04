@@ -1,1 +1,1 @@
-create a file to name exactly another file
+A script writes into another file
