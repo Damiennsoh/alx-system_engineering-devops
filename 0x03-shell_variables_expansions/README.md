@@ -1,1 +1,1 @@
-a script that list environment files
+a script that list all local files
