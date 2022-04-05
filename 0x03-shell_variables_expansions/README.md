@@ -1,1 +1,1 @@
-add action to path
+a script that counts number
