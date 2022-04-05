@@ -1,1 +1,1 @@
-I am doing shell variable expansions tasks today
+print hello user
