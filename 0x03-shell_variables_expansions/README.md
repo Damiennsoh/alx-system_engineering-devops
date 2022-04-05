@@ -1,1 +1,1 @@
-a script that list all local files
+scripting to create new variable
