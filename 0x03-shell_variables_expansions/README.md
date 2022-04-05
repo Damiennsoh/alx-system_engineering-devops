@@ -1,1 +1,1 @@
-sex is lovely
+sex is beautiful
