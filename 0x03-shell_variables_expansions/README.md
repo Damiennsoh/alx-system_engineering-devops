@@ -1,1 +1,1 @@
-scripting to create new variable
+global variable
