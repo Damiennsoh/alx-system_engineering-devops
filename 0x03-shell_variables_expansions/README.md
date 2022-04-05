@@ -1,1 +1,1 @@
-global variable
+this is me
