@@ -1,4 +1,4 @@
-# Install Nginx web server with Puppet
+#Install Nginx web server with Puppet
 include stdlib
 
 $link = 'https://www.youtube.com/watch?v=QH2-TGUlwu4'
@@ -46,3 +46,4 @@ file_line { 'Set X-Served-By header':
   notify   => Exec['restart nginx'],
   require  => File['/var/www/html/index.html']
 }
+

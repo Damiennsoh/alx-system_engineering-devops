@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# 
+g!/usr/bin/env bash
 # Configure Nginx so that its HTTP response contains
 # a custom header
 #
@@ -35,3 +34,4 @@ sudo sed -i "$ a $backend" $hgproxy_conf_file
 
 # Restart HAProxy
 sudo service haproxy restart
+
