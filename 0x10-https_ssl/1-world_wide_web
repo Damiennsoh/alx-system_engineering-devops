@@ -26,3 +26,4 @@ elif [ "$domain" ] ; then                           # Display information for it
         lookup_host "$host"
     done
 fi
+
