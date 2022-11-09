@@ -1,1 +1,1 @@
-More on web stack debugging
+# Scripts Functionalities
