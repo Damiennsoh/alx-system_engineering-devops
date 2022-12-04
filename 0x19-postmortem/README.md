@@ -24,7 +24,7 @@ From 6:26 PM to 7:58 PM PT, requests to most Google APIs resulted in 500 error r
 At 6:19 PM PT, a configuration change was inadvertently released to our production environment without first being released to the testing enviroment. The change specified an invalid address for the authentication servers in production. This exposed a bug in the authentication libraries which caused them to block permanently while attempting to resolve the invalid address to physical services. In addition, the internal monitoring systems permanently blocked on this call to the authentication library. The combination of the bug and configuration error quickly caused all of the serving threads to be consumed. Traffic was permanently queued waiting for a serving thread to become available. The servers began repeatedly hanging and restarting as they attempted to recover and at 6:26 PM PT, the service outage began.
 
 ## Pictorial diagram of the API outage
-
+![image](https://github.com/Damiennsoh/alx-system_engineering-devops/blob/master/0x19-postmortem/Screenshot/postmortem_img.png)
 
 ## Resolution and recovery
 
