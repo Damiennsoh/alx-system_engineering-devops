@@ -11,13 +11,13 @@ The following is the incident report for the Google API infrastructure outage th
 From 6:26 PM to 7:58 PM PT, requests to most Google APIs resulted in 500 error response messages. Google applications that rely on these APIs also returned errors or had reduced functionality. At its peak, the issue affected 100% of traffic to this API infrastructure. Users could continue to access certain APIs that run on separate infrastructures. The root cause of this outage was an invalid configuration change that exposed a bug in a widely used internal library.
 
 ## Timeline (all times Pacific Time)
-6:19 PM: Configuration push begins
-6:26 PM: Outage begins
-6:26 PM: Pagers alerted teams
-6:54 PM: Failed configuration change rollback
-7:15 PM: Successful configuration change rollback
-7:19 PM: Server restarts begin
-7:58 PM: 100% of traffic back online
+* 6:19 PM: Configuration push begins
+* 6:26 PM: Outage begins
+* 6:26 PM: Pagers alerted teams
+* 6:54 PM: Failed configuration change rollback
+* 7:15 PM: Successful configuration change rollback
+*7:19 PM: Server restarts begin
+*7:58 PM: 100% of traffic back online
 
 ## Root Cause
 
