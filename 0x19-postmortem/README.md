@@ -1,5 +1,4 @@
-# Title
-Web API infrastructure outage incident report
+# A Postmortem Report on Web API Infrastructure Outage
 
 ## Description
 By the Devops Engineering Department
